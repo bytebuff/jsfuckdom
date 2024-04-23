@@ -29,6 +29,7 @@
     "http-proxy-agent": "^7.0.0",
     "https-proxy-agent": "^7.0.2",
     "is-potential-custom-element-name": "^1.0.1",
+    "jsfuckcanvas": "^2.11.2",
     "nwsapi": "^2.2.7",
     "parse5": "^7.1.2",
     "rrweb-cssom": "^0.6.0",

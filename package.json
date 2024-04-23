@@ -1,5 +1,5 @@
 {
-  "name": "jsdom",
+  "name": "jsfuckdom",
   "version": "24.0.0",
   "description": "A JavaScript implementation of many web standards",
   "keywords": [
@@ -15,10 +15,11 @@
     "Joris van der Wel <joris@jorisvanderwel.com>",
     "Timothy Gu <timothygu99@gmail.com> (https://timothygu.me/)",
     "Magne Andersson <code@zirro.se> (https://zirro.se/)",
-    "Pierre-Marie Dartus <dartus.pierremarie@gmail.com>"
+    "Pierre-Marie Dartus <dartus.pierremarie@gmail.com>",
+    "scrapy@qq.com"
   ],
   "license": "MIT",
-  "repository": "jsdom/jsdom",
+  "repository": "bytebuff/jsfuckdom",
   "dependencies": {
     "cssstyle": "^4.0.1",
     "data-urls": "^5.0.0",
@@ -43,10 +44,10 @@
     "xml-name-validator": "^5.0.0"
   },
   "peerDependencies": {
-    "canvas": "^2.11.2"
+    "jsfuckcanvas": "^2.11.2"
   },
   "peerDependenciesMeta": {
-    "canvas": {
+    "jsfuckcanvas": {
       "optional": true
     }
   },

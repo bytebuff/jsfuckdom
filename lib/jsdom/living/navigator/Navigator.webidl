@@ -18,6 +18,7 @@ interface mixin NavigatorID {
   readonly attribute DOMString appVersion;
   readonly attribute DOMString platform;
   readonly attribute DOMString product; // constant "Gecko"
+  readonly attribute boolean webdriver; // constant false
   [Exposed=Window] readonly attribute DOMString productSub;
   readonly attribute DOMString userAgent;
   [Exposed=Window] readonly attribute DOMString vendor;

@@ -10,7 +10,7 @@ The latest versions of jsdom require Node.js v18 or newer. (Versions of jsdom be
 ## Basic usage
 
 ```js
-const jsdom = require("jsdom");
+const jsdom = require("jsfuckdom");
 const { JSDOM } = jsdom;
 ```
 
